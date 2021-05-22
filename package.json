@@ -1,0 +1,28 @@
+{
+  "name": "aqua",
+  "version": "1.0.0",
+  "description": "rest api for watercare mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshana Bandara",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshanabandara/REST.git"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "bugs": {
+    "url": "https://github.com/harshanabandara/REST/issues"
+  },
+  "homepage": "https://github.com/harshanabandara/REST#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  }
+}
